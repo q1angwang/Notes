@@ -15,7 +15,7 @@
     第一次测试时会弹出警告，填yes后回车
 
 6. 设置username和email
-    $ git config --global user.name "wq"
+    $ git config --global user.name "q1angwang"
     $ git config --global user.email "qiangwanghhh@gmail.com"
     在把本项目上传到github之前设置username和email，每次commit都会记录下username和email。
 
